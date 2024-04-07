@@ -441,11 +441,11 @@ if __name__ == "__main__":
     device = torch.device("cuda" if cuda else "cpu")
 
 
-    train_taskfile = 'DataSet/Train/pretrain_train_all_newdataset.txt'
+    train_taskfile = 'DataSet/Train/Nuc-1521_train_all.txt'
     #train_taskfile = 'DataSet/Train/pretrain_train_all227.txt'
     #train_taskfile = 'DataSet/Train/pretrain_train_all221.txt'
 
-    test_taskfie = 'DataSet/Test/pretrain_test_all_newdataset.txt'
+    test_taskfie = 'DataSet/Test/Nuc-1521_Test_all.txt'
     #test_taskfie = 'DataSet/Test/pretrain_test_all_17.txt'
     #test_taskfie = 'DataSet/Test/pretrain_test_all_50.txt'
 
