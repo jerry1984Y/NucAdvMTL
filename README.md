@@ -1,4 +1,4 @@
-#NucAdvMTL
+# NucAdvMTL
 
 To address the challenge in shared and private feature separation among similar ligands, a method named NucAdvMTL is proposed based on adversarial multi-task learning. This method constructs a dual-layer encoding architecture that integrates feature-sharing and private modules within a multi-task learning network coupled with a generative adversarial learning framework, effectively separating shared and private features in binding patterns. It mitigates potential negative transfer issues that may arise during shared feature extraction when dealing with datasets of varying ligand sizes. Simultaneously, it significantly boosts the model's capability to capture private characteristics. Benchmarking experiments demonstrate that NucAdvMTL outperforms current state-of-the-art prediction methods.
 
