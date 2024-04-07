@@ -16,7 +16,7 @@ ProtTrans (ProtT5-XL-UniRef50 model)
 # 2 Datasets
 We provided a total of four benchmark datasets, namely Nuc-798, Nuc-849, Nuc-1521, and Nuc-207. Among them, Nuc-798, Nuc-849, and Nuc-1521 each consist of five common nucleotide (ATP, ADP, AMP, GTP, GDP) binding proteins constructed at different times. Nuc-207 comprises five uncommon nucleotide (TMP, CTP, CMP, UTP, UMP) binding proteins.
 
-# 3. How to Use
+# 3. How to use
 ## 3.1 Set up environment for ProtTrans
 Set ProtTrans follow procedure from https://github.com/agemagician/ProtTrans/tree/master
 ## 3.2 Extract features
